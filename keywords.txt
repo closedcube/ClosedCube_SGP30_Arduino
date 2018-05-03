@@ -1,0 +1,25 @@
+##################################################################
+# Syntax Coloring Map For
+# ClosedCube SGP30 Multi-Pixel TVOC/CO2 Gas breakout board
+##################################################################
+
+##################################################################
+# Datatypes (KEYWORD1)
+##################################################################
+
+ClosedCube	KEYWORD1
+Sensor	KEYWORD1
+SGP	KEYWORD1
+
+
+##################################################################
+# Methods and Functions (KEYWORD2)
+##################################################################
+
+address	KEYWORD2
+reset	KEYWORD2
+getSerialID	KEYWORD2
+getFeatureSet	KEYWORD2
+measureTest	KEYWORD2
+
+
